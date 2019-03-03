@@ -1,0 +1,4 @@
+#Sun Mar 03 23:04:57 KST 2019
+base.0=D\:\\2019GameDev\\2019Project1stGame\\Temp\\gradleOut\\build\\intermediates\\transforms\\dexMerger\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex
